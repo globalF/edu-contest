@@ -12,7 +12,7 @@ import History from "./History";
 import Winners from "./Winners";
 import Subscription from "./Subscription";
 import Profile from "./Profile";
-import Withdrawal from "./withdrawal";   // ✅ import your new page
+import Withdrawal from "./Withdrawal";   // ✅ import your new page
 import ProtectedRoute from "./ProtectedRoute";   // wrapper for auth
 import { AuthProvider } from "./AuthContext";    // ✅ new context
 
