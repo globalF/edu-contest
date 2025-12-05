@@ -1,0 +1,21 @@
+{
+  "name": "educontest-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "npx vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-confetti": "^6.4.0",
+    "react-paystack": "^6.0.0",
+    "jwt-decode": "^4.0.0",
+    "firebase": "^12.6.0"
+  },
+  "devDependencies": {
+    "vite": "^7.2.6",
+    "@vitejs/plugin-react": "^4.7.0"
+  }
+}
